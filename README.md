@@ -36,7 +36,7 @@ A brief description of what the project does and its main features.
 
 ## Get in Touch
 - *LinkedIn:* [Ngoni Sendama](https://www.linkedin.com/in/ngonidzashe-sendama-641b38234/)
-- *Twitter:* [@NgoniSendama]([https://twitter.com/CodeWithNgoni)
+- *Twitter:* [@NgoniSendama](https://twitter.com/CodeWithNgoni)
 - *Email:* [ngoni.sendama@codewithngoni.com](mailto:ngonidzashesendama@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi!
