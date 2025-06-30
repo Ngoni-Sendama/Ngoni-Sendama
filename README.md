@@ -39,7 +39,24 @@ A brief description of what the project does and its main features.
  
 
 ## Get in Touch
-- *LinkedIn:* [Ngoni Sendama](https://www.linkedin.com/in/ngonidzashe-sendama-641b38234/)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ngonidzashe-sendama-641b38234/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+  <a href="https://wa.me/918264609578">                                                                    
+  <img src="https://img.shields.io/badge/whatsapp-Green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+ <a href="https://twitter.com/CodeWithNgoni">
+  <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=x&logoColor=black" alt="Twitter Badge"/>
+ </a>
+  <a href="mailto:ngonidzashesendama@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Badge"/>
+
+ </a>
+ 
+</div>
+- *LinkedIn:* [Ngoni Sendama](/)
 - *Twitter:* [@NgoniSendama](https://twitter.com/CodeWithNgoni)
 - *Email:* [ngoni.sendama@codewithngoni.com](mailto:ngonidzashesendama@gmail.com)
 
