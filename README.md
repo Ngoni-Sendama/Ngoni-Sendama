@@ -56,8 +56,6 @@ A brief description of what the project does and its main features.
  </a>
  
 </div>
-- *LinkedIn:* [Ngoni Sendama](/)
-- *Twitter:* [@NgoniSendama](https://twitter.com/CodeWithNgoni)
-- *Email:* [ngoni.sendama@codewithngoni.com](mailto:ngonidzashesendama@gmail.com)
+
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi!
