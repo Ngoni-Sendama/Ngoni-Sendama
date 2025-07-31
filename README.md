@@ -35,7 +35,7 @@ A brief description of what the project does and its main features.
 ![Ngoni-Sendama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngoni-Sendama&show_icons=true&theme=radical)
 
 ### Contribution Graph:
-[![Kudamasangomai GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ngoni-Sendama)](https://github.com/Kudamasangomai/github-readme-activity-graph)
+[![Ngoni-Sendama GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ngoni-Sendama)](https://github.com/Ngoni-Sendama/github-readme-activity-graph)
  
 
 ## Get in Touch
