@@ -20,6 +20,11 @@ I'm a a Laravel Developer, diving into the world of coding! Explore with me from
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
+## CMS and Platforms
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
 ## Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -76,8 +81,7 @@ A brief description of what the project does and its main features.
 A brief description of what the project does and its main features.
 -->
 <!--
-// ## GitHub Stats
-// ![Ngoni-Sendama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngoni-Sendama&show_icons=true&theme=radical) -->
+ 
 
 ### Contribution Graph:
 [![Ngoni-Sendama GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ngoni-Sendama)](https://github.com/Ngoni-Sendama/github-readme-activity-graph)
